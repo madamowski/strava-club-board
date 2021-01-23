@@ -1,0 +1,13 @@
+name: strava-club-board
+dependencies:
+  - python=3.8
+  - jupyter
+  - nb_conda
+  - ipykernel
+  - pip
+  - pip:
+    - pandas
+    - numpy
+    - stravalib
+    - requests
+
